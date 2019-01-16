@@ -50,7 +50,6 @@ Correctness
 100%
 Performance
 100%
----------XXXXXXXXXX------------
 <pre>
 function solution($A) {
     // write your code in PHP7.0
@@ -72,4 +71,3 @@ function solution($A) {
     }
 }
 </pre>
-----------XXXXXXXXX---------
