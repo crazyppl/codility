@@ -51,7 +51,7 @@ Correctness
 Performance
 100%
 ---------XXXXXXXXXX------------
-
+<pre>
 function solution($A) {
     // write your code in PHP7.0
     sort($A);
@@ -71,4 +71,5 @@ function solution($A) {
         return 0;
     }
 }
+</pre>
 ----------XXXXXXXXX---------
